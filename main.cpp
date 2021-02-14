@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hello, World!" << endl;
+    setlocale(LC_ALL, "");
     return 0;
 }
