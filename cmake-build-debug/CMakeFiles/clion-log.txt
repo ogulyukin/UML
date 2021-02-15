@@ -1,0 +1,4 @@
+/home/oleg/work/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/oleg/work/Programming/20200920/UML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/oleg/work/Programming/20200920/UML/cmake-build-debug

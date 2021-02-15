@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oleg/work/Programming/20200920/UML/Text.h
+string
+-
+Text.h
+/home/oleg/work/Programming/20200920/UML/Text.h
+
+/home/oleg/work/Programming/20200920/UML/TextReader.cpp
+TextReader.h
+/home/oleg/work/Programming/20200920/UML/TextReader.h
+
+/home/oleg/work/Programming/20200920/UML/TextReader.h
+Text.h
+/home/oleg/work/Programming/20200920/UML/Text.h
+
